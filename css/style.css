@@ -922,4 +922,12 @@ background: linear-gradient(to bottom, #000000, #EB5757); /* W3C, IE 10+/ Edge, 
     font-size: 30px;
   }
 
+  .cont-icons{
+    margin-left: 130px;
+  }
+  .cont-icons li{
+    display: inline-block;
+    width: 30px;
+  }
+
 }
